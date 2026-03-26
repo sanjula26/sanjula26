@@ -29,6 +29,8 @@
 
 ### 🛠️ My Expertise
 
+ -I worked at SN Computer Dehiattakandiya for one year
+
 #### 🔩 **Hardware Repair Skills** ⚡
 - Laptop & Desktop Chip Level Repairing 🧩
 - Motherboard Diagnostics & Full Repair 🔍

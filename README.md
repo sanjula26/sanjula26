@@ -52,7 +52,7 @@
 
 ### 🐍 Snake Eating My Contributions
 
-### 🐍 Advanced Snake Eating My Contributions
+### 🐍 Snake Eating My Contributions
 
 <div align="center">
   <picture>

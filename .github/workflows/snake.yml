@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # සෑම 6 පැයකට වතාවක් automatic ව update වෙනවා
+  workflow_dispatch:          # ඔයාට අතින් run කරන්නත් පුළුවන්
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sanjula26
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

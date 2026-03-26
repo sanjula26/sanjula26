@@ -23,6 +23,8 @@
 
 ### 🛠️ My Expertise
 
+-	I worked at SN computer Dehiattakandiya for one year 
+
 #### 🔩 Hardware Repair Skills
 - Laptop & Desktop Chip Level Repairing
 - Motherboard Diagnostics & Repair
@@ -89,4 +91,4 @@
 
 ---
 
-**Made with ❤️ & Soldering Iron** by Hemantha Sanjula | Sri Lanka 🇱🇰
+**Made with** by Hemantha Sanjula | Sri Lanka 🇱🇰

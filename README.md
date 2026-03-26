@@ -50,7 +50,6 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
 
 ### 🐍 Snake Eating My Contributions
 

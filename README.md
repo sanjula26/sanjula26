@@ -5,10 +5,15 @@
 <br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Hemantha+Sanjula;Computer+%26+Laptop+Chip+Level+Repair+Expert;Software+Developer+from+Sri+Lanka" alt="Typing SVG Header" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Location-Dehiattakandiya%2C+Sri+Lanka-FF5722?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Speciality-Chip+Level+Repair-00BFFF?style=flat&logo=tools&logoColor=white" alt="Speciality" />
 </div>
-
 ---
 
 ### 👨‍🔧 About Me

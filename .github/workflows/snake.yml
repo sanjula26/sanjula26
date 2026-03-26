@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Advanced Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"     # සෑම 6 පැයකට වතාවක් automatic ව update වෙනවා
-  workflow_dispatch:          # ඔයාට අතින් run කරන්නත් පුළුවන්
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,19 +11,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Advanced Snake
         uses: Platane/snk@v3
         with:
           github_user_name: sanjula26
+          # Advanced options
+          palette: github-dark     # හොඳ dark theme
+          color_snake: "00FFAA"    # Snake එකේ වර්ණ (ඔයාට ඕනේ වර්ණ එකක් දාන්න පුළුවන්)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push snake to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animation
+          commit_message: Update advanced snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=29&duration=2800&pause=1000&color=00FFAA&center=true&vCenter=true&width=780&lines=Hi+There!+👋;I'm+Hemantha+Sanjula;Computer+%26+Laptop+Chip+Level+Repair+Expert;Software+Developer+from+Sri+Lanka" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+Hemantha+Sanjula;🔧+Chip+Level+Repair+Expert;💻+Software+Developer;From+🇱🇰+Sri+Lanka" 
     alt="Typing SVG Header" 
   />
 </div>
@@ -9,33 +9,36 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Dehiattakandiya%2C+Sri+Lanka-FF5722?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Speciality-Chip+Level+Repair-00BFFF?style=flat&logo=tools&logoColor=white" alt="Speciality" />
+  <img src="https://img.shields.io/badge/Speciality-Chip+Level+Repair+%26+Soldering-00BFFF?style=flat&logo=tools&logoColor=white" alt="Speciality" />
+  <img src="https://img.shields.io/badge/Passion-Hardware+%26+Software-FF00FF?style=flat&logo=heart&logoColor=white" alt="Passion" />
 </div>
 
 ---
 
-### 👨‍🔧 About Me
+### 👨‍🔧 About Me 🔥
 
-- 🔧 **Professional Computer & Laptop Chip Level Repair Technician**
-- 💻 Software Developer specializing in Web & Backend Development
-- 🌱 Currently learning **Next.js** for modern web applications and **Advanced Laptop Chip Level Repairing** techniques
-- ⚡ Passionate about both **Hardware Repair** (Motherboard, BGA, Soldering) and **Software Development**
-- 📍 Based in **Dehiattakandiya, Sri Lanka** 🇱🇰
+- 🔧 **Professional Laptop & Desktop Chip Level Repair Technician**  
+- 💻 **Full-Stack Software Developer** (Web & Backend)  
+- 🌱 Currently mastering **Next.js** + **Advanced BGA Reballing & Micro Soldering**  
+- ⚡ Love fixing **dead motherboards** as much as building **modern web apps**  
+- 📍 Based in **Dehiattakandiya, Sri Lanka** 🇱🇰  
+
+**"Where hardware meets code — with a soldering iron in one hand and a keyboard in the other!"** 🛠️💻
 
 ---
 
 ### 🛠️ My Expertise
 
-#### 🔩 Hardware Repair Skills
-- Laptop & Desktop Chip Level Repairing
-- Motherboard Diagnostics & Repair
-- Micro Soldering & BGA Reballing
-- IC Replacement & Hardware Troubleshooting
+#### 🔩 **Hardware Repair Skills** ⚡
+- Laptop & Desktop Chip Level Repairing 🧩
+- Motherboard Diagnostics & Full Repair 🔍
+- **Micro Soldering** + **BGA Reballing** 🔥
+- IC Replacement & Advanced Troubleshooting 🛠️
 
-#### 💻 Software Development Skills
+#### 💻 **Software Development Skills** 🚀
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,mysql,nodejs,java,git,github&perline=8" alt="Software Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,python,mysql,nodejs,java,git,github,nextjs,react,tailwind&perline=8" alt="Software Stack" />
 </div>
 
 ---
@@ -43,8 +46,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=sanjula26&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjula26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=sanjula26&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjula26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -53,10 +56,10 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
+### 🐍 Snake Eating My Contributions 🔥
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanjula26/sanjula26/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/sanjula26/sanjula26/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -85,4 +88,4 @@
 
 ---
 
-**Made with ❤️ & Soldering Iron** by Hemantha Sanjula | Sri Lanka 🇱🇰
+**Made with ❤️ & 🔥 Soldering Iron** by **Hemantha Sanjula** | Sri Lanka 🇱🇰

@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- 🔥 ULTIMATE 3D CYBERPUNK HEADER 🔥 -->
+  <!-- 🔥 ULTIMATE 3D CYBERPUNK HEADER - ENGLISH VERSION 🔥 -->
   <div style="
     background: linear-gradient(45deg, #000428 0%, #004e92 25%, #00FFAA 50%, #16213e 75%, #0c0c0c 100%);
     background-size: 400% 400%;
@@ -140,22 +140,17 @@
       opacity: 0.8; 
     }
   }
-
-  /* Matrix Rain Canvas */
-  #matrix {
-    z-index: 1 !important;
-  }
 </style>
 
 <script>
-  // Matrix Rain Effect
+  // Matrix Rain Effect - Pure English
   const canvas = document.getElementById('matrix');
   const ctx = canvas.getContext('2d');
   
   canvas.width = canvas.offsetWidth;
   canvas.height = canvas.offsetHeight;
   
-  const matrix = "අයුබෝවන්01චිප්10ලැප්ටොප්01හේමන්ත01සංජුල01TECH01";
+  const matrix = "HEMANTHA CHIP LAPTOP TECH REPAIR CODE 01";
   const matrixArray = matrix.split("");
   
   const fontSize = 14;
@@ -183,7 +178,6 @@
   
   setInterval(drawMatrix, 50);
   
-  // Responsive canvas
   window.addEventListener('resize', () => {
     canvas.width = canvas.offsetWidth;
     canvas.height = canvas.offsetHeight;
@@ -192,13 +186,13 @@
 
 <br><br>
 
-<!-- ULTIMATE 3D SHIELDS -->
+<!-- ULTIMATE 3D SHIELDS - English Only -->
 <div align="center">
-  <a href="https://maps.google.com/?q=Dehiattakandiya">
-    <img src="https://img.shields.io/badge/🌍_දෙහිඅට්ටකන්ඩිය-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0c0c0c&color=1a1a2e" alt="Location" />
+  <a href="https://maps.google.com/?q=Dehiattakandiya,+Sri+Lanka">
+    <img src="https://img.shields.io/badge/🌍_Dehiattakandiya-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0c0c0c&color=1a1a2e" alt="Location" />
   </a>
   <a href="https://github.com/sanjula26">
-    <img src="https://img.shields.io/badge/🔧_චිප්+ලෙවල්+ගොඩ්-00D4AA?style=for-the-badge&logo=tools&logoColor=black&labelColor=16213e&color=004e92" alt="Chip Master" />
+    <img src="https://img.shields.io/badge/🔧_Chip+Level+Master-00D4AA?style=for-the-badge&logo=tools&logoColor=black&labelColor=16213e&color=004e92" alt="Chip Master" />
   </a>
   <a href="mailto:sanjulahemantha743@gmail.com">
     <img src="https://img.shields.io/badge/💻_Full+Stack-00FFAA?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0c0c0c&color=1a1a2e" alt="Full Stack" />
@@ -220,5 +214,5 @@
   box-shadow: 0 0 20px rgba(0,255,170,0.2);
 ">
   <b>🚀 ULTIMATE 3D CYBERPUNK MODE ACTIVATED! ✨</b><br>
-  <small>Powered by Blackbox AI | සිංහල + English Cyber Tech Hero 🇱🇰</small>
+  <small>Chip Level Repair Master | Full Stack Developer | Sri Lanka 🇱🇰</small>
 </div>

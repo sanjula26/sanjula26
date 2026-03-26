@@ -52,11 +52,19 @@
 
 ### 🐍 Snake Eating My Contributions
 
+### 🐍 Advanced Snake Eating My Contributions
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanjula26/sanjula26/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjula26/sanjula26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjula26/sanjula26/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/sanjula26/sanjula26/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="95%" />
+  </picture>
 </div>
 
----
+<p align="center">
+  <em>The snake automatically updates every 6 hours and follows my latest contributions!</em>
+</p>
 
 ### 📬 Get In Touch
 
